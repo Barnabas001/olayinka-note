@@ -1,3 +1,21 @@
+# Mindful Moments - Motivational Write-ups
+
+A serene and responsive React.js application featuring motivational and comforting write-ups designed to provide a moment of peace and perspective.
+
+## 🌟 Features
+
+-   **Responsive Design**: Clean and readable layout that works on desktop, tablet, and mobile devices.
+-   **Modern React**: Built with functional components and React hooks.
+-   **Clean UI**: Minimalist design to keep the focus on the content.
+
+## 🛠️ Built With
+
+-   [React.js](https://reactjs.org/) - A JavaScript library for building user interfaces.
+-   [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) - For styling and responsive layout.
+
+## 📦 Project Structure
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
